@@ -1,4 +1,5 @@
-# Disaster-Management-HASHHACK5.0![Screenshot (25)](https://user-images.githubusercontent.com/122378408/232314862-6456d2ad-0938-4eac-ba9f-a2a329b1d56a.png)
+ResQfund - A disaster Relief platform
+[Screenshot (25)](https://user-images.githubusercontent.com/122378408/232314862-6456d2ad-0938-4eac-ba9f-a2a329b1d56a.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/122378408/232494401-95a2e65c-3d35-4157-9991-5c608140a894.png)
 ![Screenshot (27)](https://user-images.githubusercontent.com/122378408/232494460-521e6f0d-d821-4c66-9f69-bc02b2d72488.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/122378408/232494583-942b70f8-7020-44d5-baba-a31350ae7ac7.png)
